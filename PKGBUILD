@@ -1,5 +1,5 @@
 # Grid driver adaptation by Handy Baile <handy@baile.dev>
-# All modified are marked with comments.
+# All modified sections are marked with comments.
 
 # Maintainer: Vasiliy Stelmachenok <ventureo@cachyos.org>
 # Contributor: Sven-Hendrik Haase <svenstaro@archlinux.org>
