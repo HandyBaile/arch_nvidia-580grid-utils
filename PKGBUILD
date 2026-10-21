@@ -18,7 +18,9 @@ arch=('x86_64')
 url="http://www.nvidia.com/"
 license=('custom')
 options=('!strip')
+# grid - start | Added "-grid" suffix.
 _pkg="NVIDIA-Linux-x86_64-${pkgver}-grid"
+# grid - end
 _pkg_open="NVIDIA-kernel-module-source-${pkgver}"
 source=('nvidia-drm-outputclass.conf'
         'nvidia-utils.sysusers'
